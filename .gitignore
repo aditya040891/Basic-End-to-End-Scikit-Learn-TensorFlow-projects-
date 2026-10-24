@@ -217,6 +217,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+cat-scan-location-prediction/archive
 automobile-accident-severity-prediction/archive/US_Accidents_March23.csv
 fruit-image-classification/archive.zip
 mining-quality-prediction/archive/MiningProcess_Flotation_Plant_Database.csv
